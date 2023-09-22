@@ -1,2 +1,2 @@
 # zYConcessionaria
-Apenas um projeto utilizado para aprende.
+Apenas um projeto utilizado para aprender.
